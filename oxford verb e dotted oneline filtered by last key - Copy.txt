@@ -500,6 +500,9 @@ self-medicate-verb(2),syndicate-verb(1),vindicate-verb(2),
 [ite]-> bite-verb(4),invite-verb(3),kite-verb(1),requite-verb(1),site-verb(1),spite-verb(1),
 [itigate]-> litigate-verb(1),mitigate-verb(1),
 [itrate]-> arbitrate-verb(1),titrate-verb(1),
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [itulate]-> capitulate-verb(2),recapitulate-verb(1),
 [ivate]-> activate-verb(1),captivate-verb(1),cultivate-verb(4),deactivate-verb(1),demotivate-verb(1),inactivate-verb(1),motivate-verb(3),reactivate-verb(1),salivate-verb(1),
 titivate-verb(1),
